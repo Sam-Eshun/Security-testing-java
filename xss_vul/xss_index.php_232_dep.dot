@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_232_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/VisualizeRegistration.php : 139\nLit: </tr>\n"];
+}

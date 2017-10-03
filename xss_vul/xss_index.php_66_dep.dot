@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_66_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/AddParent.php : 27\nLit:   </select>	</td>	<td>	 <select name='username'>\n"];
+}

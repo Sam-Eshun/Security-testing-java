@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_314_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/ManageGrades.php : 267\nLit: <tr class='even'><td colspan='9'><center>There are currently no students registered for this class.</center></td></tr>\n"];
+}

@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_9_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/Login.php : 2\nLit:  <body onLoad='document.login.username.focus();'> \n"];
+}

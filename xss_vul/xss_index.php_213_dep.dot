@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_213_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/EditClass.php : 122\nLit: CHECKED\n"];
+}

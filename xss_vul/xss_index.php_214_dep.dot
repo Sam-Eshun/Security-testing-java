@@ -1,0 +1,5 @@
+digraph cfg {
+  label="xss_index.php_214_dep";
+  labelloc=t;
+  n1 [shape=doubleoctagon, label="/var/www/html/schoolmate/EditClass.php : 124\nLit:  /> Tuesday<br />   <input type='checkbox' value='W' name='Days[]'\n"];
+}
