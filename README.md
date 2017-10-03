@@ -4,7 +4,7 @@
 
 
 
-This is a security testing project using Static Taint Analysis to detect XSS vulnerabilities in a PHP web application [https://sourceforge.net/projects/schoolmate/](SchoolMate/https://sourceforge.net/projects/schoolmate/) using the pixy tool.
+This is a security testing project using Static Taint Analysis to detect XSS vulnerabilities in a PHP web application (SchoolMate/https://sourceforge.net/projects/schoolmate) using the pixy tool.
 
 The following tasks were performed:
 * Running of the Pixy tool that detects all the XSS vulnerabilities, among which there are false positives and true positives.
